@@ -42,9 +42,7 @@ Este repositório contém o código do projeto **Tema Claro e Escuro**, onde é 
 
 ## 🖥️ Prévia do funcionamento
 
-1. Clique no botão do tema.
-2. A página muda entre **Light** e **Dark Mode**.
-3. O ícone do botão também muda automaticamente.
+https://github.com/user-attachments/assets/55a8a232-2019-4362-9323-2af007cb5f97
 
 ---
 
